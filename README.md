@@ -1,1 +1,2 @@
-adding alx_be_shell readme
+adding alx_be_shell
+README.md
