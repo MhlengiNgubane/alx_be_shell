@@ -1,4 +1,2 @@
 #!/bin/bash
-
-# Set the exact mode for the file hello
 chmod 753 hello
