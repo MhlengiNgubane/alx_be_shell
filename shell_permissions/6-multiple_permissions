@@ -1,1 +1,5 @@
 #!/bin/bash
+
+# Add execute permission to the owner and group owner,
+# and read permission to other users, for the file hello
+chmod ugo+x,o+r hello
